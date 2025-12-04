@@ -10,7 +10,9 @@ It has a victory system that is Stamina based where the winner is determined by 
 intelli J idea  or Java Script application
 
 # Imports
+```bash
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.Random;
+```
