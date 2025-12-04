@@ -8,7 +8,8 @@ It has a victory system that is Stamina based where the winner is determined by 
 
 # Installations
 intelli J idea  or Java Script application
-#Imports
+
+# Imports
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
