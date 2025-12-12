@@ -3,7 +3,7 @@
 
 GATTACK is a java based wrestling game application, that includes two wrestlers the Human player against the CPU where the human player moves are determined by user  by pressing GUI buttons on the canvas panel while CPU responds automatically choosing random moves to make.
 
-It is has been created with the help of Java swing  JFrame and is a GUI executable application.
+It is has been created with the help of Java swing ,JFrame and is a GUI executable application.
 It has a victory system that is Stamina based where the winner is determined by choosing the player with more stamina .
 
 # Installations
